@@ -6,7 +6,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 ## Environment
 
-This repository is setup to be plug-and-play with `uv`. After cloning or pulling updates to the repository, you can ensure all depencies are in the local virtual environment by running
+This repository is setup to be plug-and-play with `uv`. After cloning or pulling updates to the repository, you can ensure all dependencies are in the local virtual environment by running
 
 ```bash
 uv sync
