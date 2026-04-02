@@ -25,6 +25,7 @@ uv run jupyter lab
 ### Week 1
 
 * Explore data on birth rates in the US: [Birth Data Exploration.ipynb](notebooks/Birth%20Data%20Exploration.ipynb)
+* Start our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
 
 ## Data Provenance
 
