@@ -33,7 +33,7 @@ uv run jupyter lab
 
 ### Week 3
 
-* Wrap up MCMC: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
+* Use monte carlo methods to explore a 2-D Ising model: [Boltzmann and Ising (and some Metropolis).ipynb](notebooks/Boltzmann%20and%20Ising%20(and%20some%20Metropolis).ipynb)
 * Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
 
 ## Data Provenance
