@@ -34,6 +34,11 @@ uv run jupyter lab
 ### Week 3
 
 * Use monte carlo methods to explore a 2-D Ising model: [Boltzmann and Ising (and some Metropolis).ipynb](notebooks/Boltzmann%20and%20Ising%20(and%20some%20Metropolis).ipynb)
+* Start building the statistical foundation behind regression: [Intro to Regression.ipynb](notebooks/Intro%20to%20Regression.ipynb)
+
+### Week 4
+
+* Continue building the statistical foundation behind regression: [Intro to Regression.ipynb](notebooks/Intro%20to%20Regression.ipynb)
 * Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
 
 ## Data Provenance
@@ -49,6 +54,13 @@ This data can be with a wget command:
 ```bash
 mkdir -p ../data
 wget -qO ../data/US_births_2000-2014_SSA.csv https://raw.githubusercontent.com/fivethirtyeight/data/master/births/US_births_2000-2014_SSA.csv
+```
+### Synthetic data for linear regression
+
+This data accompanies [Hogg, Bovy, and Lang (2010)](https://arxiv.org/abs/1008.4686).  It can be downloaded directly with
+
+```bash
+!wget -O ../data/data_yerr.dat https://raw.githubusercontent.com/davidwhogg/DataAnalysisRecipes/master/straightline/src/data_yerr.dat
 ```
 
 ### Solar Neighborhood w/ Gaia
